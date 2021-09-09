@@ -1,5 +1,6 @@
 # Web-Design-Challenge
-To create a visualization dashboard 
+This project focuses on implementing weather app using python, HTML,CSS and Flask to display existing weather informations and visuals<br>
+Link : https://ranjanianjurvenkatraman.github.io/Web-Design-Challenge/
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
